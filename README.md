@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/guillermo-barros-rodriguez-046665296/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/guillermo-barros-rodriguez-046665296/" target="blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:barrosguillermo24@gmail.com) 
